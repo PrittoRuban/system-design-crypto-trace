@@ -66,18 +66,19 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 #### **Frontend and Visualization**
 
 - **User Interface:** React.js allows users to input wallet IDs/transaction hashes and view results.
-- **Data Visualization:** Use D3.js or Chart.js to visualize transaction flows, clusters, and behavior patterns.
+- **Data Visualization:** Use D3.js to visualize transaction flows, clusters, and behavior patterns.
 - **Flow:**
   1. **User Interaction:** Input transaction data.
   2. **Visualization:** Display tracing results.
   3. **Report Generation:** Generate detailed reports for analysis.
 
+<!--
 #### **Deployment and Monitoring**
 
 - **CI/CD Pipeline:** Automated testing, deployment, and updates using Jenkins or GitHub Actions.
 - **Monitoring:** Prometheus and Grafana for real-time monitoring and alerts.
 - **Logging:** Centralized logging with the ELK stack for debugging and audit purposes.
-
+-->
 ---
 
 ## **Tools and Technologies**
@@ -87,10 +88,10 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 - **Database:** MongoDB
 - **APIs:** Etherscan
 - **Security:** JWT, HTTPS, Encryption
-- **Deployment:** AWS/GCP, Vercel/Netlify
-- **CI/CD:** Jenkins, GitHub Actions
-- **Monitoring:** Prometheus, Grafana
-- **Logging:** ELK Stack
+- **Deployment:** GCP, Vercel
+- **CI/CD:** GitHub Actions
+<!--   - **Monitoring:** Prometheus, Grafana
+- **Logging:** ELK Stack -->
 
 ---
 
