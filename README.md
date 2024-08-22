@@ -16,7 +16,7 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 
 ---
 
-## **🏗 System Architecture**
+## **System Architecture**
 
 ### **1. Overall Architecture**
 
@@ -25,7 +25,7 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 - **Database:** MongoDB - For storing transaction traces and associated metadata.
 - **Machine Learning:** Python microservices - For clustering, behavior analysis, and identity attribution.
 - **Security:** JWT for authentication, HTTPS for secure communication, and encryption for sensitive data.
-- **Cloud Deployment:** Backend on AWS/GCP, Frontend on Vercel/Netlify, with a CI/CD pipeline.
+- **Cloud Deployment:** Backend on Google Console, Frontend on Vercel.
 
 ### **2. Key Modules**
 
@@ -106,15 +106,16 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 
 ---
 
-## **🚀 Optimization and Scalability**
+<!--
+## **Optimization and Scalability**
 
-- **Load Balancing:** Use AWS ELB or Nginx for load distribution.
+- **Load Balancing:** AWS ELB for load distribution.
 - **Horizontal Scaling:** Scale microservices to handle traffic increases.
 - **Caching:** Implement Redis for caching to reduce API call frequency.
 
 ---
 
-## **🔍 Final Notes**
+## **Final Notes**
 
 - **Testing:** Focus on edge cases, security vulnerabilities, and performance bottlenecks.
 - **Documentation:** Ensure comprehensive documentation for maintenance and further development.
@@ -122,5 +123,4 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 ---
 
 This project is designed to meet the criteria for the Smart India Hackathon, providing a robust, scalable, and secure solution for tracing cryptocurrency transactions and identifying the real individuals behind drug trafficking activities.
-
----
+-->
