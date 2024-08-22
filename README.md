@@ -1,6 +1,6 @@
 
 
-# **🔍 Software Solution to Identify the End Receiver of a Cryptocurrency Transaction**
+# **Software Solution to Identify the End Receiver of a Cryptocurrency Transaction**
 
 ## **Problem Statement**
 
@@ -80,7 +80,7 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 
 ---
 
-## **🛠 Tools and Technologies**
+## **Tools and Technologies**
 
 - **Frontend:** React.js, D3.js, Chart.js
 - **Backend:** Node.js, Express.js, Python (for ML)
@@ -94,7 +94,7 @@ Cryptocurrencies like Bitcoin, USDT, and Monero are increasingly being used in d
 
 ---
 
-## **⚙️ System Flow Diagram**
+## **System Flow Diagram**
 
 1. **User Input:** The user enters a wallet ID or transaction hash.
 2. **API Call:** Backend retrieves Ethereum transaction data.
